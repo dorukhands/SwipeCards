@@ -1,4 +1,4 @@
 # swipeCards
 Initial commit
-https://user-images.githubusercontent.com/33581493/107832570-cc51b080-6da1-11eb-8a53-74c1d086117c.mp4
+<iframe src="https://giphy.com/embed/OWtxOwlz0k4sty6Amm" width="258" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/OWtxOwlz0k4sty6Amm">via GIPHY</a></p>
 
